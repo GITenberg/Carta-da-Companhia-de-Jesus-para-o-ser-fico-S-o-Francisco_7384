@@ -1,0 +1,31 @@
+_repo: Carta-da-Companhia-de-Jesus-para-o-ser-fico-S-o-Francisco_7384
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anchieta, José de
+    aliases:
+    - De Anchieta, José
+    - Anchieta, Joseph de
+    birthdate: 1534
+    deathdate: 1597
+    gutenberg_agent_id: '2453'
+    url: http://www.gutenberg.org/2009/agents/2453
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Jos%C3%A9_de_Anchieta
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_de_Anchieta
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7384'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+- GITenberg
+title: Carta da Companhia de Jesus para o seráfico São Francisco
+url: http://www.gutenberg.org/ebooks/7384
